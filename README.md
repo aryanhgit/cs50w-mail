@@ -1,2 +1,2 @@
-### CS50w Project Assignment 4 : Network
-This is the last homework project assignment from the CS50w Coursework.
+### CS50w Project Assignment 3 : Mail
+This is the third homework project assignment from the CS50w Coursework.
